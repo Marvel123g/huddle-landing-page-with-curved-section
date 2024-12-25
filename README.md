@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/Marvel123g/huddle-landing-page-with-curved-section.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://marvel123g.github.io/huddle-landing-page-with-curved-section/)
+- Live Site URL:(https://marvel123g.github.io/huddle-landing-page-with-curved-section/)
 
 ### Built with
 
@@ -34,7 +34,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Marvelous](https://www.your-site.com)
+- Website - [Marvelous](https://marvel123g.github.io/huddle-landing-page-with-curved-section/)
 - Frontend Mentor - [@marvel123g](https://www.frontendmentor.io/profile/Marvel123g)
 - instagram - [@ma.rvellous971]
 
